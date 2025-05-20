@@ -14,7 +14,7 @@ D1.StripNumber            64  64
 D1.EnergyResolution   Gauss      0.0      0.0  1.32
 D1.EnergyResolution   Gauss     60.0     60.0  1.32
 D1.EnergyResolution   Gauss    122.0    122.0  1.42
-D1.EnergyResolution   Gauss    365.0    365.0  1.58
+D1.EnergyResolution   Gauss    356.0    356.0  1.58
 D1.EnergyResolution   Gauss    662.0    662.0  1.68
 D1.EnergyResolution   Gauss   1275.0   1275.0  1.79
 D1.EnergyResolution   Gauss   1836.0   1836.0  1.86
